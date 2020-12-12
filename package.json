@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/kaylamuraoka/heroku-node/issues"
   },
-  "homepage": "https://github.com/kaylamuraoka/heroku-node#readme"
+  "homepage": "https://github.com/kaylamuraoka/heroku-node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
