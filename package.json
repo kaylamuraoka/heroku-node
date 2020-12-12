@@ -1,0 +1,23 @@
+{
+  "name": "heroku-node",
+  "version": "1.0.0",
+  "description": "Node to Heroku app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaylamuraoka/heroku-node.git"
+  },
+  "keywords": [
+    "node",
+    "heroku"
+  ],
+  "author": "Kayla Muraoka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaylamuraoka/heroku-node/issues"
+  },
+  "homepage": "https://github.com/kaylamuraoka/heroku-node#readme"
+}
